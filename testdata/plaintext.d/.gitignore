@@ -1,9 +1,4 @@
-# tars
-*.tar
-# env
-.env
-.env.*
-
+file3.txt
 # Logs
 logs
 *.log

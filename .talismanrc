@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: typescript/express_app/package-lock.json
+  checksum: 54387e95f26184f613f7dc4408d68919458702800f7dae6217875a1516c03df9
+- filename: typescript/package-lock.json
+  checksum: 24e4eec7737109d1c3cef71f9aa5f1307804438f4aeaacb4c4c16fecc8facec4
+- filename: scripts/gitleaks.sh
+  checksum: f72cc6f9359f80eb6418b883c67e11b7ad744de3e316c799e34e8afea510e62c
+- filename: typescript/maketar.ts
+  checksum: 8138354852a02d0169359d63908ce32f6e1b7ce00ae00a0dc520c18d6631f8bc
+version: ""
